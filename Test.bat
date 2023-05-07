@@ -11,6 +11,10 @@ echo.
 echo.
 echo                                 =================================================================
 echo.
-echo                                 [1] test1                             [2] test
+echo                                 [1] test1                             [2] test2
 echo.
-echo                                 [3] test3
+echo                                 [3] test3                             [4] test4 
+echo.
+echo                                       
+echo.
+
