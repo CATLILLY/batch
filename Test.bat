@@ -1,2 +1,3 @@
 @echo off
-colur C
+color C
+title @CATLILLY @bylickilabs
