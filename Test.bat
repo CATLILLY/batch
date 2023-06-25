@@ -23,3 +23,9 @@ echo                                 [e] Exit
 echo.
 set /P whm=Auswahl:
 If %whm%==1 (goto test1)
+If %whm%==2 (goto test2)
+If %whm%==3 (goto test3)
+If %whm%==4 (goto test4)
+If %whm%==5 (goto test5)
+If %whm%==6 (goto test6)
+If %whm%==e (exit)
