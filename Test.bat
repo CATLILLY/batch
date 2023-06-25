@@ -22,3 +22,4 @@ echo.
 echo                                 [e] Exit
 echo.
 set /P whm=Auswahl:
+echo whm=1 goto test1
