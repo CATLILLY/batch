@@ -21,4 +21,4 @@ echo
 echo.
 echo                                 [e] Exit
 echo.
-echo       whm=Auswahl:
+set /P whm=Auswahl:
