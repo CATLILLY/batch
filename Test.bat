@@ -15,6 +15,10 @@ echo                                 [1] test1                             [2] t
 echo.
 echo                                 [3] test3                             [4] test4 
 echo.
-echo                                       
+echo                                 [5] test5                             [6] test6      
 echo.
-
+echo
+echo.
+echo                                 [e] Exit
+echo.
+echo       whm=Auswahl:
